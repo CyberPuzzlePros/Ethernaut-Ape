@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/CyberPuzzlePros/Cookiecutter-custom-rye-ethernaut-template",
+  "commit": "ffe4131680c76dfa2fcfa8dfc1ef5b558480dfda",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Saikat K",
+      "email": "king.arthur@camelot.bt",
+      "github_username": "Aviksaikat",
+      "project_name": "16-preservation",
+      "dist_name": "16-preservation",
+      "package_name": "16_preservation",
+      "python_version": "3.10",
+      "_template": "https://github.com/CyberPuzzlePros/Cookiecutter-custom-rye-ethernaut-template"
+    }
+  },
+  "directory": null
+}
