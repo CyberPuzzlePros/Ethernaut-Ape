@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/CyberPuzzlePros/Cookiecutter-custom-rye-ethernaut-template",
+  "commit": "b1aa674d416b6d4d3c6cb1cd3ce9f94d4096f80a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Saikat K",
+      "email": "king.arthur@camelot.bt",
+      "github_username": "Aviksaikat",
+      "project_name": "18-MagicNum",
+      "dist_name": "18-magicnum",
+      "package_name": "18_magicnum",
+      "python_version": "3.10",
+      "_template": "https://github.com/CyberPuzzlePros/Cookiecutter-custom-rye-ethernaut-template"
+    }
+  },
+  "directory": null
+}
